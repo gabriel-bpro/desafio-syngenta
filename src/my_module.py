@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Dicionário para mapeamento dos dias da semana em weekday/weekend
 WEEK = {
     'mon':  'wd',
